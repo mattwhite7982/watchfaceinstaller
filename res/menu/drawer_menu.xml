@@ -1,0 +1,5 @@
+<!-- res/menu/drawer_menu.xml -->
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:id="@+id/nav_settings" android:title="Settings" android:icon="@drawable/settings"/>
+    <item android:id="@+id/nav_about" android:title="About" android:icon="@drawable/outline_app_badging_24"/>
+</menu>

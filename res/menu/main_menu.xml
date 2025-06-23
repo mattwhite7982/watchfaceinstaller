@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+        android:id="@+id/action_install"
+        android:title="Install to Watch"
+        android:icon="@drawable/watch_install"
+        app:showAsAction="ifRoom"/>
+    <item
+        android:id="@+id/action_exit"
+        android:title="Exit"
+        android:icon="@drawable/exit_to_app"
+        app:showAsAction="ifRoom"/>
+</menu>

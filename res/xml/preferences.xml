@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <SwitchPreferenceCompat
+        android:key="enable_notifications"
+        android:title="Enable Notifications"
+        android:summary="Enables Notifications for app updates and installation status"
+        android:defaultValue="true" />
+
+</PreferenceScreen>

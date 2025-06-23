@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Watch Face Installer</string>
+    <string name="hello_text">Hello from MainActivity!</string>
+    <string name="install_button">Install to Watch</string>
+    <string name="watch_install_icon_desc">Watch Install Icon</string>
+    <string name="cloud_download_icon_desc">Cloud Download Icon</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="exit">Exit</string>
+    <string name="menu_settings">Settings</string>
+    <string name="menu_home">Home</string>
+    <string name="menu_about">About</string>
+    <string name="install_watchface_instructions">
+    To install a custom watch face APK on your Wear OS watch:
+    1. Download the watch face APK to your phone.
+    2. Open this app and tap the menu (☰).
+    3. Select "Install to Watch".
+    4. Choose the APK file and follow the prompts.
+    5. After installation, set the new watch face from your watch.
+    </string>
+</resources>
